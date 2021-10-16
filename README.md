@@ -1,3 +1,3 @@
 # TesteAprendizado
-Teste
- Iniciando um teste para aprendizado
+Teste para aprendizado
+
